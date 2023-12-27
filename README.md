@@ -6,19 +6,19 @@ To write a python program to implement multivariate linear regression and predic
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 ### Step1
-<br>
+import pands module to solve for multivariate linear regression
 
 ### Step2
-<br>
+from sklearn import linear_model
 
 ### Step3
-<br>
+open the file cars saved in the drive and get input for weight and volume to find density of CO2
 
 ### Step4
-<br>
+print coefficients,intercept and amount
 
 ### Step5
-<br>
+end of the program
 
 ## Program:
 ```
